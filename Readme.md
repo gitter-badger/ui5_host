@@ -1,5 +1,7 @@
 # ui5_host
 ## Project Description
+
+[![Join the chat at https://gitter.im/RichardMartens/ui5_host](https://badges.gitter.im/RichardMartens/ui5_host.svg)](https://gitter.im/RichardMartens/ui5_host?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is an application for hosting of openui5 apps. It includes an nodejs http server, so you can start your app local on your machine without apache, iis, etc..
 
 ## Requirements
